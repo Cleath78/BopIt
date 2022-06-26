@@ -1,8 +1,6 @@
 #define newLED 8
 #define newBTN 9
 
-//This is Carter's comment for Assignment 15
-
 void setup() {
   pinMode(newBTN, INPUT);
   pinMode(newLED, OUTPUT);
